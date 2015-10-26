@@ -1,1 +1,3 @@
-# professional-certification
+# Nodejs Certification Study
+
+https://strongloop.com/node-js/certification/
